@@ -1,0 +1,78 @@
+#section1 {
+    border: 5px maroon solid;
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 50px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: rgb(255, 238, 238);
+    color: rgb(12, 5, 5);
+    }
+
+
+p {
+    font-size: 15px;
+    font-family: 'Courier New ';
+    /*font-style: italic;
+    text-decoration: underline;
+    */
+
+}
+
+#section2 {
+    border: 5px rgb(179, 0, 30);
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 50px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: pink;
+}
+
+#section2 > h1 {
+    color: rgb(230, 63, 63);
+}
+    a {
+        color: rgb(219, 98, 98);
+        text-decoration: none;
+
+    }
+a:hover {
+    color: rgb(97, 61, 56);
+}
+
+#section3 {
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 50px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: #d3a6cd;
+    text-align: center;
+
+}
+
+.inputs {
+    width: 100%;
+    height: 35px;
+    margin: 5px;
+}
+    #submit {
+        height: 25px;
+        border: none;
+        background-color: rgb(151, 99, 134);
+        color: white;
+        width: 25%;
+}
+#submit:hover {
+    background-color: gray;
+}
